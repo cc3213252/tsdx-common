@@ -7,6 +7,9 @@
     "dist",
     "src"
   ],
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/npm-hosted/"
+  },
   "engines": {
     "node": ">=10"
   },
